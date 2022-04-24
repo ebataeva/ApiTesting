@@ -39,6 +39,10 @@ def base_url_dogs():
 
 
 @pytest.fixture
+def base_url_breweries():
+    return 'https://api.openbrewerydb.org/breweries'
+
+@pytest.fixture
 def request_method(request):
     return getattr(requests, request.config.getoption("--method"))
 
