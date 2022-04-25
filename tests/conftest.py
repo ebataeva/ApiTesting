@@ -9,7 +9,7 @@ def pytest_addoption(parser):
         default="https://httpbin.org/",
         help="This is the request url"
     )
-    
+
     parser.addoption(
         "--status_code",
         default=200,
@@ -33,6 +33,8 @@ def base_url(request):
 def expected_status_code(request):
     return request.config.getoption("--status_code")
 
+
+
 @pytest.fixture
 def base_url_dogs():
     return 'https://dog.ceo/api/'
@@ -41,6 +43,12 @@ def base_url_dogs():
 @pytest.fixture
 def base_url_breweries():
     return 'https://api.openbrewerydb.org/breweries'
+
+
+@pytest.fixture
+def base_url_json():
+    return 'https://jsonplaceholder.typicode.com'
+
 
 @pytest.fixture
 def request_method(request):

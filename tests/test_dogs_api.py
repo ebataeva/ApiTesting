@@ -1,4 +1,3 @@
-import json
 from support import assert_valid_schema, HOUND, BULLDOGS
 import pytest
 
