@@ -27,5 +27,5 @@ def assert_valid_schema(data, schema_file):
     return validate(instance=data, schema=schema)
 
 
-def test_api_json_schema(request, schema):
-    return validate(instance=request.json(), schema=schema)
+def check_api_json_schema(request, schema):
+    return validate(instance=request, schema=schema)

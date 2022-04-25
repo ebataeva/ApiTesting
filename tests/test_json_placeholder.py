@@ -1,11 +1,11 @@
 import pytest
-from support import test_api_json_schema
+from support import check_api_json_schema
 
 
-@pytest.mark.parametrize('id', [1, 2, 3])
-def test_get_json_url(base_url_json, session, id):
-    r = session.get(f'{base_url_json}/posts/{id}')
-    assert r.status_code == 200
+# @pytest.mark.parametrize('id', [1, 2, 3])
+# def test_get_json_url(base_url_json, session, id):
+#     r = session.get(f'{base_url_json}/posts/{id}')
+#     assert r.status_code == 200
 
 
 def test_valid_body_url(base_url_json, session):
@@ -35,4 +35,4 @@ def test_valid_body_url(base_url_json, session):
         ]
     }
     assert r.status_code == 200
-    test_api_json_schema(r.json(), schema)
+    check_api_json_schema(r.json(), schema)
