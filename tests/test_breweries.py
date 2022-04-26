@@ -1,5 +1,5 @@
 import pytest
-from support import assert_valid_schema
+from support.support import assert_valid_schema
 
 @pytest.mark.parametrize('city', ['Alameda', 'Miami', 'Sylvania'])
 def test_list_parameters_by_city(base_url_breweries, session, city):

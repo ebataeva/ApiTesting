@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d4909cb-c338-4ae9-b5b9-d2582a519352" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/shema_brewery.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_json_placeholder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/support/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/support.py" beforeDir="false" afterPath="$PROJECT_DIR$/support.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/support.py" beforeDir="false" afterPath="$PROJECT_DIR$/support/support.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_breweries.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_breweries.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_dogs_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_dogs_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_jp.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_json.py" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,22 +35,40 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\otus\ApiTesting" />
+      <recent name="C:\otus\ApiTesting\tests\support" />
+      <recent name="C:\otus\ApiTesting\venv" />
+      <recent name="C:\otus\ApiTesting\support" />
       <recent name="C:\Users\ebataeva\Desktop\New folder\ApiTesting\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_json_placeholder.test_valid_body_url">
-    <configuration name="pytest for test_breweries.test_get_list_negative" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_json.test_get_all_resource">
+    <configuration name="pytest for test_breweries.test_list_parameters_by_city" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="ApiTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,13 +78,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_breweries.test_get_list_negative&quot;" />
+      <option name="_new_target" value="&quot;test_breweries.test_list_parameters_by_city&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_breweries.test_list_shema" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_json.test_get_all_resourc_once" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="ApiTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,13 +93,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_breweries.test_list_shema&quot;" />
+      <option name="_new_target" value="&quot;test_json.test_get_all_resourc_once&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_dogs_api.test_get_list_all" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_json.test_get_all_resource" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="ApiTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,13 +108,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_dogs_api.test_get_list_all&quot;" />
+      <option name="_new_target" value="&quot;test_json.test_get_all_resource&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_json_placeholder.test_get_json_url" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_json.test_get_json_url" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="ApiTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,39 +123,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_json_placeholder.test_get_json_url&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_json_placeholder.test_valid_body_url" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="ApiTesting" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_json_placeholder.test_valid_body_url&quot;" />
+      <option name="_new_target" value="&quot;test_json.test_get_json_url&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_json_placeholder.test_valid_body_url" />
-        <item itemvalue="Python tests.pytest for test_json_placeholder.test_get_json_url" />
-        <item itemvalue="Python tests.pytest for test_breweries.test_list_shema" />
-        <item itemvalue="Python tests.pytest for test_dogs_api.test_get_list_all" />
-        <item itemvalue="Python tests.pytest for test_breweries.test_get_list_negative" />
+        <item itemvalue="Python tests.pytest for test_json.test_get_all_resource" />
+        <item itemvalue="Python tests.pytest for test_json.test_get_json_url" />
+        <item itemvalue="Python tests.pytest for test_breweries.test_list_parameters_by_city" />
+        <item itemvalue="Python tests.pytest for test_json.test_get_all_resourc_once" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6d4909cb-c338-4ae9-b5b9-d2582a519352" name="Changes" comment="" />
@@ -160,20 +160,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tests/conftest.py</url>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

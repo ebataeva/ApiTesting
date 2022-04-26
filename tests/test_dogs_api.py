@@ -1,4 +1,4 @@
-from support import assert_valid_schema, HOUND, BULLDOGS
+from support.support import assert_valid_schema, HOUND, BULLDOGS
 import pytest
 
 
