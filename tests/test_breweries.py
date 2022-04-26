@@ -37,7 +37,7 @@ def test_search(base_url_breweries, session):
     r = session.get(f'{base_url_breweries}/search', params=parameters)
     assert 'dog' in r.text
 
-@pytest.mark.run_these_please
+
 def test_list_shema(base_url_breweries, session):
     r = session.get(base_url_breweries)
     assert assert_valid_schema(r.json()[0], 'shema_brewery.json')
