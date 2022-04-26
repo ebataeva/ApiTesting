@@ -34,7 +34,6 @@ def expected_status_code(request):
     return request.config.getoption("--status_code")
 
 
-
 @pytest.fixture
 def base_url_dogs():
     return 'https://dog.ceo/api/'
