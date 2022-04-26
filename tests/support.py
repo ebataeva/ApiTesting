@@ -2,7 +2,6 @@ import os
 import json
 from jsonschema import validate
 
-
 #
 # script = ' .\apitesting\venv\Scripts\activate'
 

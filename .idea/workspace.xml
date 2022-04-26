@@ -5,11 +5,85 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d4909cb-c338-4ae9-b5b9-d2582a519352" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/support/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/support/support.py" beforeDir="false" afterPath="$PROJECT_DIR$/support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/_pyrsistent_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema-4.4.0.dist-info/COPYING" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema-4.4.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema-4.4.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema-4.4.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema-4.4.0.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema-4.4.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema-4.4.0.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema-4.4.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/_format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/_legacy_validators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/_reflect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/_validators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/benchmarks/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/benchmarks/issue232.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/benchmarks/json_schema_test_suite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/cli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/protocols.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/schemas/draft2019-09.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/schemas/draft2020-12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/schemas/draft3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/schemas/draft4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/schemas/draft6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/schemas/draft7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/schemas/vocabularies.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/tests/_helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/tests/_suite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/tests/fuzz_validate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/tests/test_cli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/tests/test_deprecations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/tests/test_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/tests/test_format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/tests/test_jsonschema_test_suite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/tests/test_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/tests/test_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/tests/test_validators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema/validators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pvectorc.cp39-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent-0.18.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent-0.18.1.dist-info/LICENSE.mit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent-0.18.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent-0.18.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent-0.18.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent-0.18.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent/__init__.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent/_checked_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent/_field_common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent/_helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent/_immutable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent/_pbag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent/_pclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent/_pdeque.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent/_plist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent/_pmap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent/_precord.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent/_pset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent/_pvector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent/_toolz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent/_transformations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent/typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent/typing.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/jsonschema.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/support.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/support.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_breweries.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_breweries.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_dogs_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_dogs_api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_valid_url.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_valid_url.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,32 +99,42 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="28EvS3bR6jqNhsHqPGGGctbpgLH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Telegram Desktop/otus_api_testing-master" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\otus\ApiTesting\tests" />
       <recent name="C:\otus\ApiTesting" />
       <recent name="C:\otus\ApiTesting\tests\support" />
       <recent name="C:\otus\ApiTesting\venv" />
       <recent name="C:\otus\ApiTesting\support" />
-      <recent name="C:\Users\ebataeva\Desktop\New folder\ApiTesting\tests" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -65,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_json.test_get_all_resource">
+  <component name="RunManager" selected="Python tests.pytest for test_json.test_post">
     <configuration name="pytest for test_breweries.test_list_parameters_by_city" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="ApiTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,7 +180,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_json.test_get_all_resource" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_json.test_get_all_resource" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="ApiTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,6 +192,21 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_json.test_get_all_resource&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_json.test_get_all_resource_once" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ApiTesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_json.test_get_all_resource_once&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -126,12 +225,28 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for test_json.test_post" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ApiTesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_json.test_post&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_json.test_get_all_resource" />
+        <item itemvalue="Python tests.pytest for test_json.test_post" />
         <item itemvalue="Python tests.pytest for test_json.test_get_json_url" />
-        <item itemvalue="Python tests.pytest for test_breweries.test_list_parameters_by_city" />
+        <item itemvalue="Python tests.pytest for test_json.test_get_all_resource_once" />
         <item itemvalue="Python tests.pytest for test_json.test_get_all_resourc_once" />
+        <item itemvalue="Python tests.pytest for test_breweries.test_list_parameters_by_city" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651002662417</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changes">
+      <created>1651002993228</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651002993228</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +297,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Changes" />
     <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
