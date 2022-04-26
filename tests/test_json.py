@@ -1,6 +1,6 @@
 import pytest
 
-from support.support import support
+from support import assert_api_json_schema
 
 
 @pytest.mark.parametrize('id', [1, 2, 3])
@@ -50,7 +50,7 @@ def test_get_json_url(base_url_json, session, id):
         ]
     }
     assert r.status_code == 200
-    support.assert_api_json_schema(r, schema)
+    assert_api_json_schema(r, schema)
 
 # def test_post(base_url_breweries, session):
 #     pass

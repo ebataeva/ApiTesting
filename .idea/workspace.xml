@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d4909cb-c338-4ae9-b5b9-d2582a519352" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/support/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/support.py" beforeDir="false" afterPath="$PROJECT_DIR$/support/support.py" afterDir="false" />
+    <list default="true" id="6d4909cb-c338-4ae9-b5b9-d2582a519352" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/support/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/support.py" beforeDir="false" afterPath="$PROJECT_DIR$/support.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_breweries.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_breweries.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_dogs_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_dogs_api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_jp.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_json.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -150,6 +148,14 @@
       <updated>1650794555880</updated>
       <workItem from="1650794557123" duration="5220000" />
     </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <created>1651002662417</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651002662417</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,5 +173,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
 </project>
